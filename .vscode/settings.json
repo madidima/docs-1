@@ -1,0 +1,3 @@
+{
+    "dotnet.defaultSolution": "samples/framework/docker/MVCRandomAnswerGenerator/MVCRandomAnswerGenerator.sln"
+}
